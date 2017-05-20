@@ -1,0 +1,9 @@
+C:\dev\Projects\GitHub\LittleTim\LittleTim\bin\Debug\LittleTim.exe.config
+C:\dev\Projects\GitHub\LittleTim\LittleTim\bin\Debug\LittleTim.exe
+C:\dev\Projects\GitHub\LittleTim\LittleTim\bin\Debug\LittleTim.pdb
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Debug\LittleTim.csprojResolveAssemblyReference.cache
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Debug\LittleTim.Properties.Resources.resources
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Debug\LittleTim.csproj.GenerateResource.Cache
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Debug\LittleTim.exe
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Debug\LittleTim.pdb
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Debug\LittleTim.littleTimFrm.resources
