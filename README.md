@@ -5,4 +5,4 @@ Thanks!
 
 TitaniumCoder477
 
-Latest download: .\LittleTim\bin\Debug\LittleTim.exe
+Latest download: https://github.com/TitaniumCoder477/LittleTim/blob/master/LittleTim/bin/Debug/LittleTim.exe
