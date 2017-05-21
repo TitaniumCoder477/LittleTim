@@ -4,3 +4,5 @@ LittleTim is a really simple timer application. You can rename it, start it, pau
 Thanks!
 
 TitaniumCoder477
+
+Latest download: .\LittleTim\bin\Debug\LittleTim.exe
