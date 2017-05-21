@@ -39,7 +39,7 @@ namespace LittleTim
         private int minutes = 0;
         private int hours = 0;
         private string hSpacer, mSpacer, sSpacer;
-        private string title = "LittleTim v1.0, MIT License, Copyright (c) 2017 James Wilmoth";
+        private string title = "LittleTim v1.0 - MIT License - © 2017 James Wilmoth";
         private string titleSpacer = "    ";
 
         public littleTimFrm()
@@ -130,9 +130,9 @@ namespace LittleTim
         //The timer object
         private void timePastTmr_Tick(object sender, EventArgs e)
         {
-            if(seconds++ == 59)
+            if(++seconds == 60)
             {
-                if(minutes++ == 59)
+                if(++minutes == 59)
                 {
                     hours++;
                     minutes = 0;

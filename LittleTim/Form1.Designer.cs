@@ -89,7 +89,6 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "littleTimFrm";
-            this.Text = "LittleTim v1.0, MIT License, Copyright (c) 2017 James Wilmoth";
             this.TopMost = true;
             this.DoubleClick += new System.EventHandler(this.littleTimFrm_DoubleClick);
             this.ResumeLayout(false);

@@ -1,0 +1,8 @@
+C:\dev\Projects\GitHub\LittleTim\LittleTim\bin\Release\LittleTim.exe.config
+C:\dev\Projects\GitHub\LittleTim\LittleTim\bin\Release\LittleTim.exe
+C:\dev\Projects\GitHub\LittleTim\LittleTim\bin\Release\LittleTim.pdb
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.littleTimFrm.resources
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.Properties.Resources.resources
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.csproj.GenerateResource.Cache
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.exe
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.pdb
