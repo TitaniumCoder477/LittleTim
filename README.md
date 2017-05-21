@@ -5,7 +5,7 @@ Thanks!
 
 TitaniumCoder477
 
-Latest download: https://github.com/TitaniumCoder477/LittleTim/blob/master/LittleTim/bin/Debug/LittleTim.exe
+Latest download: https://github.com/TitaniumCoder477/LittleTim/blob/master/LittleTim/bin/Release/LittleTim.exe
 
 Hints:
 - Click the time to start the timer. Click it again to pause it.
