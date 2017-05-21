@@ -130,9 +130,9 @@ namespace LittleTim
         //The timer object
         private void timePastTmr_Tick(object sender, EventArgs e)
         {
-            if(seconds++ == 60)
+            if(seconds++ == 59)
             {
-                if(minutes++ == 60)
+                if(minutes++ == 59)
                 {
                     hours++;
                     minutes = 0;
