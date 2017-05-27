@@ -6,3 +6,4 @@ C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.Properties.Reso
 C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.csproj.GenerateResource.Cache
 C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.exe
 C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.pdb
+C:\dev\Projects\GitHub\LittleTim\LittleTim\obj\Release\LittleTim.csprojResolveAssemblyReference.cache

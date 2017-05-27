@@ -39,7 +39,8 @@ namespace LittleTim
         private int minutes = 0;
         private int hours = 0;
         private string hSpacer, mSpacer, sSpacer;
-        private string title = "LittleTim v1.0 - MIT License - © 2017 James Wilmoth";
+        private static string copyright = "LittleTim v1.0 - MIT License - © 2017 James Wilmoth";
+        private string title = copyright;
         private string titleSpacer = "    ";
 
         public littleTimFrm()
@@ -48,6 +49,7 @@ namespace LittleTim
             //In design view, I have this out of the way, so be sure to center it
             nameTxtBx.Location = new System.Drawing.Point(13,13);
             this.Text = title + titleSpacer;
+            this.Size = new Size(181, 91);
             titleScrollTmr.Start();
         }        
 
@@ -92,6 +94,8 @@ namespace LittleTim
                 timePastLbl.Text = "00:00:00";
                 //Reset variables
                 hours = minutes = seconds = 0;
+                //Reset title
+                this.Text = copyright;
             }
             //Left mouse button equals pause
             else if(e.Button == MouseButtons.Left)
